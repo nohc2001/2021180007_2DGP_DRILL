@@ -1,6 +1,6 @@
 import turtle;
 
-turtle.reset();
+turtle.reset()
 
 index = 0;
 while (index < 6):
@@ -18,4 +18,4 @@ while (index < 6):
     turtle.goto(300, -200 + index * 100);
     index += 1;
 
-turtle.exitonclick();
+turtle.exitonclick()
