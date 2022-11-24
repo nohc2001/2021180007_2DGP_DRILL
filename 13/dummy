@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class EVENT:
     A, B = range(2)
     pass
@@ -5,3 +6,12 @@ class EVENT:
 
 
 
+=======
+class EVENT:
+    A, B = range(2)
+    pass
+
+
+
+
+>>>>>>> 7109cad7a07070e0ea8dc1dcc77e1f5dd1fab40f
